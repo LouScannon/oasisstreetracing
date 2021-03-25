@@ -1,0 +1,13 @@
+<script language = "javascript">
+    <!--hide
+    var password;
+    var pass1="HiddenValley";
+    password = prompt('Classified',' ');
+    if(password==pass1)
+    alert('See you on the street!');
+    else
+    {
+    window.location="http://discord.com";
+    }
+    //-->
+</script>
