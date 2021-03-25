@@ -1,1 +1,14 @@
 theme: jekyll-theme-hacker
+<script language = "javascript">
+    <!--hide
+    var password;
+    var pass1="HiddenValley";
+    password = prompt('Enter Password To View Page',' ');
+    if(password==pass1)
+    alert('Correct password, click OK to enter.');
+    else
+    {
+    window.location="http://www.msn.com";
+    }
+    
+</script>
