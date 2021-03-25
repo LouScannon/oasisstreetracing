@@ -1,4 +1,4 @@
-![Image](https://static.imoney.my/articles/wp-content/uploads/2018/12/Cliche-Hacker.jpg)
+![Image](https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/warzone/strategy-guide/06-zone-overview/06-CLASSIFIED.jpg)
 ## Welcome to LouScannon
 
 You can use the [editor on GitHub](https://github.com/LouScannon/oasisstreetracing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
