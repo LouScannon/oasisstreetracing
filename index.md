@@ -1,4 +1,4 @@
-![Image](https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/warzone/strategy-guide/06-zone-overview/06-CLASSIFIED.jpg)
+![Image](https://hunterae.com/wp-content/uploads/images/redacted-titles-mogrt-for-premiere-pro-download-videohive-21879662-free-hunterae-com-2.jpg)
 ## Welcome to LouScannon
 
 You can use the [editor on GitHub](https://github.com/LouScannon/oasisstreetracing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
